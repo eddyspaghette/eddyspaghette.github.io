@@ -24,7 +24,7 @@ description: >-                        # used by seo meta and the atom feed
   Learning more about pentesting everyday.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://eddyspaghette.github.io/ctf-writeups'
+url: 'https://eddyspaghette.github.io'
 
 github:
   username: eddyspaghette             # change to your github username
